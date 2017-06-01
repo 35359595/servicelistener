@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService1", "WindowsService1\WindowsService1.csproj", "{40B3F56A-4948-4667-84EE-079133DF0A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runner", "runner\runner.csproj", "{537FA7AD-45A7-4476-AAD9-B3C56468A1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B3F56A-4948-4667-84EE-079133DF0A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B3F56A-4948-4667-84EE-079133DF0A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B3F56A-4948-4667-84EE-079133DF0A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B3F56A-4948-4667-84EE-079133DF0A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537FA7AD-45A7-4476-AAD9-B3C56468A1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537FA7AD-45A7-4476-AAD9-B3C56468A1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537FA7AD-45A7-4476-AAD9-B3C56468A1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537FA7AD-45A7-4476-AAD9-B3C56468A1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
